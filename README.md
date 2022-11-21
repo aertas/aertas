@@ -7,7 +7,7 @@ Web Developer and Generative Artist
 I have been working as both a back-end and front-end web developer since the early 2000s. As of 2020, I only produce front-end works. I write smart contracts for Ethereum and Avalanche. I also create animated and interactive drawings using vanilla JS, three.js and p5.js on the Tezos, Solana, Ethereum and Avalanche blockchain platforms.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my website at [My web site](http://aertas.com)
+* 🖥️  See my website at [aertas.com](http://aertas.com)
 
 <a href="https://www.twitter.com/aertascom" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aertascom?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
