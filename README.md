@@ -1,56 +1,98 @@
-Hi! My name is Ahmet
-===================================================================================================================================
+  # Hi there, I'm Ahmet Ertaş 👋
 
-Web Developer and Generative Artist
------------------------------------
+  **Co-Founder & Technical Lead** @ [Novexing](https://novexing.com) | 20+ Years in Web Development
 
-I have been working as both a back-end and front-end web developer since the early 2000s. As of 2020, I only produce front-end works. I write smart contracts for Ethereum and Avalanche. I also create animated and interactive drawings using vanilla JS, three.js and p5.js on the Tezos, Solana, Ethereum and Avalanche blockchain platforms.
+  > *Building scalable web solutions since 2000s. From enterprise CRM/ERP systems to high-traffic news sites, from national campaign platforms to modern SaaS products.*
 
-* 🌍  I'm based in Turkey
-* 🖥️  See my website at [aertas.com](http://aertas.com)
+  ---
 
-<a href="https://www.twitter.com/devconcof" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/devconcof?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a>
+  ## 🚀 What I Do
 
-### Skills
+  Full-stack developer specializing in modern web technologies and AI integrations. I create production-ready systems that handle millions of users and stand the test of time.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-</p>
+  **Current Focus:**
+  - Building [Novexing](https://novexing.com) — A web agency that combines 20+ years of experience with modern tech stack
+  - Developing custom web solutions with Next.js, TypeScript, and AI integrations
+  - Self-hosted infrastructure and DevOps automation
 
+  ---
 
-### Socials
+  ## 💼 Notable Projects
 
-<p align="left"><a href="https://discord.com/users/aertas#8181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/concof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/aertas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aertascom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmetertas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@aertas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aertascom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/ahmetertas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+  **High-Traffic Systems:**
+  - Major news websites handling millions of visitors
+  - Custom CMS powering dozens of corporate projects
+  - E-commerce platforms and price comparison systems
 
+  **Enterprise Solutions:**
+  - **Interland İthalat İhracat** — CRM/ERP system (2005), still in active use 10+ years later
+  - **Atılım Yem Sanayi** — National campaign, lottery, and member scoring systems
+  - **incehesap.com** — Complete front-end development
+
+  ---
+
+  ## 🛠️ Tech Stack
+
+  **Frontend:**
+  Next.js • React • TypeScript • Tailwind CSS • Framer Motion
+
+  **Backend:**
+  Node.js • PostgreSQL • Headless CMS
+
+  **DevOps & Tools:**
+  Docker • CI/CD • Coolify • Self-hosted Infrastructure
+
+  **AI & Modern Tools:**
+  LLM Integrations • AI-powered Development Tools
+
+  ---
+
+  ## 🎯 Philosophy
+
+  - **Zero-template approach:** Every project deserves custom design and architecture
+  - **Long-term thinking:** Building solutions for 3 years ahead, not just today
+  - **Performance-first:** Lighthouse 90+, Core Web Vitals green
+  - **Code quality:** TypeScript 100%, maintainable, scalable
+  - **Transparency:** No hidden costs, open communication, clear deliverables
+
+  ---
+
+  ## 📊 Stats
+
+  - 🗓️ **20+ years** in web development
+  - 🚀 **100+ projects** delivered across various industries
+  - 🏢 **Enterprise-level** CRM, ERP, and campaign systems
+  - 📈 **Millions** of users served through platforms I built
+  - 🔧 **From scratch** — Custom systems that last decades
+  
+  ---
+
+  ## 🎓 Experience Timeline
+
+  2000s  → Started web development journey
+  2005   → Built CRM/ERP system for Interland (still running 10+ years)
+  2010s  → Major news sites, national campaigns, e-commerce platforms
+  2020s  → Modern stack transition, AI integrations
+  2024   → Co-founded Novexing with Seray Eylül Özkaya
+
+  ---
+
+  ## 🤝 Let's Connect
+
+  I'm always interested in:
+  - 🔥 Modern web architecture discussions
+  - 🤖 AI integration challenges
+  - 🏗️ Scalable system design
+  - 🚀 SaaS and MVP development
+
+  **Building something interesting? Let's talk.**
+
+  ---
+
+  <div align="center">
+
+  *"İhtiyacınızı Üretiyoruz" — We produce what you need.*
+
+  **[Novexing](https://novexing.com)** | Modern web solutions with battle-tested experience
+
+  </div>
