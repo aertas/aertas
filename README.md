@@ -69,11 +69,11 @@
 
   ## 🎓 Experience Timeline
 
-  2000s  → Started web development journey
-  2005   → Built CRM/ERP system for Interland (still running 10+ years)
-  2010s  → Major news sites, national campaigns, e-commerce platforms
-  2020s  → Modern stack transition, AI integrations
-  2024   → Co-founded Novexing with Seray Eylül Özkaya
+  - 2000s  → Started web development journey
+  - 2005   → Built my first CRM/ERP system for Interland
+  - 2010s  → Major news sites, national campaigns, e-commerce platforms
+  - 2020s  → Modern stack transition, AI integrations
+  - 2024   → Co-founded Novexing with Eylül Özkaya
 
   ---
 
